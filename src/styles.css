@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+
+body{
+  /* background-color: var(--background); */
+  background-image: url(assets/bg-netflix3.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+
+:root{
+  --background-transparente: rgba(0,0,0,.75);
+  --background: #141414;
+  --vermelho-logo: #E50914;
+  --vermelho-escuro-logo: #B20710;
+  --fonte: #fff;
+}

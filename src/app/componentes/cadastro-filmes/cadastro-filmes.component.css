@@ -1,0 +1,30 @@
+#container{
+display: flex;
+align-items: center;
+justify-content: center;
+padding: 10% 0 10% 0;
+}
+
+#containerForm{
+  background-color: rgba(0,0,0,.75);
+  padding: 50px;
+}
+
+form{
+  margin: 0 5px 0 5px;
+}
+input{
+  width: 300px
+}
+
+label{
+  color: var(--fonte);
+}
+
+#formsFilme{
+width: 100%;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: flex-start;
+}

@@ -1,0 +1,8 @@
+table{
+  background-color: var(--background-transparente);
+}
+tr, td, th{
+  color: var(--fonte);
+  /* border-bottom:1px solid var(--vermelho-logo);
+  border-top:1px solid var(--vermelho-logo); */
+}
